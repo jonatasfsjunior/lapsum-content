@@ -1,0 +1,62 @@
+---
+description: Dacia Duster é um crossover subcompacto produzido e comercializado em conjunto pela fabricante francesa Renault e sua subsidiária romena Dacia desde 2010. Na América Latina, Rússia, Ucrânia , Ásia, Oriente Médio, África do Sul, Austrália e Nova Zelândia é comercializado como Renault Duster. Foi introduzido em março de 2010 e é o terceiro modelo da marca Dacia baseado na plataforma B0, depois do Sandero.
+geral:
+  ano: "2011"
+  modelo: "2011-2015"
+  lancamento: Outubro, 2011
+  plataforma: B0
+medidas:
+  comprimento: 4.315 mm
+  largura: 1.822 mm
+  altura: 1.690 mm
+  entre-eixos: 2.673 mm
+  distância do solo: 210 mm
+volumes:
+  capacidade de carga: 493 Kg
+  peso: Entre 1.202 Kg e 1353 Kg (Varia conforme motor/modelo)
+  porta-malas: 475 L
+  tanque: 50 L
+motorização:
+  motor:
+  - Hi-Flex 1.6L Flex Aspirado (K4M 696)
+  - Hi-Flex 2.0L Flex Aspirado (F4R)
+  combustível:
+  - Gasolina
+  - Etanol
+  alimentação:	Injeção Eletrônica Multiponto
+  direção: Hidráulica
+  tração:
+  - Dianteira 
+  - 4x4
+  transmissão:
+  - Manual 5 Velocidades
+  - Manual 6 Velocidades (Apenas 4x4)
+  - Automática/Sequencial 4 Velocidades
+desempenho:
+  potência:
+  - 115 cv (K4M 1.6)
+  - 142 cv (F4R 2.0)
+  velocidade máxima:
+  - 165 km/h (K4M 1.6)
+  - 174 km/h (F4R 2.0)
+  aceleração (0-100 km/h):
+  - 11,9 s (K4M 1.6)
+  - 10,7 s (F4R 2.0)
+  consumo cidade (Km/L):
+  - 6,7 (Etanol) (K4M 1.6)
+  - 10,0 (Gasolina) (K4M 1.6)
+  - 5,8 (Etanol) (F4R 2.0)
+  - 8,5 (Gasolina) (F4R 2.0)
+  consumo estrada (Km/L):
+  - 7,4 (Etanol) (K4M 1.6)
+  - 10,7 (Gasolina) (K4M 1.6)
+  - 7,2 (Etanol) (F4R 2.0)
+  - 10,5 (Gasolina) (F4R 2.0)
+chassis:
+  Suspensão dianteira:	Independente McPherson
+  Suspensão traseira:	Semi-independente com eixo de torção
+  Freio dianteiro:	Disco Ventilado c/ ABS
+  Freio traseiro:	Tambores c/ ABS
+  Roda:	Aro 16 - Alumínio
+  Pneu:	215/65/R16
+---
